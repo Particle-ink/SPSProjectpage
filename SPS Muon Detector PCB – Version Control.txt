@@ -55,3 +55,7 @@ realized i was using wrong schematic and updated base schematic then switch some
 v2.2.2
 changed logo on board by inverting it and moved it
 
+v2.3.2
+changed one of the bnc connectors to dc power(i read it wrong origonaly it always should have been this way)
+
+
