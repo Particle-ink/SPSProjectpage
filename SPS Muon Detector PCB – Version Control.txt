@@ -1,0 +1,57 @@
+SPS Muon Detector PCB – Version Control System
+Versioning Scheme
+
+Major Version (X.0)
+Indicates a fundamental change in design or architecture.
+Examples:
+
+Switching to a new FPGA or microcontroller.
+
+Redesigning the power distribution network.
+
+Adding/removing entire subsystems (e.g., timing circuit, DAQ interface).
+
+Minor Version (X.Y)
+Indicates incremental updates that affect the circuit but do not change its fundamental design.
+Examples:
+
+Changing trace width for thermal/current considerations.
+
+Updating footprints for manufacturability.
+
+Replacing an obsolete component with a pin-compatible alternative.
+
+Patch Version (X.Y.Z) (optional, but useful for PCBs)
+Indicates very small fixes that do not affect circuit function.
+Examples:
+
+Correcting silkscreen text.
+
+Moving fiducials or mounting holes.
+
+Adjusting board outline without touching circuitry.
+
+
+
+
+start
+-----------
+
+v1.0.0
+built initial board
+
+v1.1.0
+added holes to board and spaced them according to Engineering lead
+
+v2.1.0
+moved over to std version of easyeda from pro
+
+v2.1.1
+added clarification to text fields and added silk screen explanation along with a logo
+
+v2.2.1
+realized i was using wrong schematic and updated base schematic then switch some parts out for higher volt ones
+
+v2.2.2
+changed logo on board by inverting it and moved it
+
