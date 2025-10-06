@@ -1,5 +1,5 @@
 BUY
-- PCB 		       |estimated cost: $52.22 in total for 5 
+- PCB 		       |estimated cost: $64 in total for 5 
 - BNC x 2  	     |link:   https://tinyurl.com/3j52kbrn  |cost: 4.69$ for 1
 - SiPH   	       |link:   https://tinyurl.com/2xhbnyjk  |cost: 21.11$ for 1
 - buck converter |link:   https://tinyurl.com/mwwfbhd4  |cost: 12.99$ for 10
@@ -8,7 +8,8 @@ BUY
 - Arduino nano   |link:   https://tinyurl.com/uyfkbjkx  |cost: 15.99$ for 3
 - Ampllifier x 2 |link:   https://tinyurl.com/mr3p69uh  |cost: 12.25$ for 1
 
-total: 150.82$
+total: 158.82$
+
 
 
 
