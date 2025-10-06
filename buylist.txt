@@ -6,8 +6,10 @@ BUY
 - barrel jack x3 |link:   https://tinyurl.com/5t2ppekt  |cost: 1.1$ for 1
 - OLED 		       |link:   https://tinyurl.com/2j97ssus  |cost: 9.99$ for 3
 - Arduino nano   |link:   https://tinyurl.com/uyfkbjkx  |cost: 15.99$ for 3
+- Ampllifier x 2 |link:   https://tinyurl.com/mr3p69uh  |cost: 12.25$ for 1
 
-total: 126.32$
+total: 150.82$
+
 
 
 
