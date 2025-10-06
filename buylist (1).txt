@@ -3,10 +3,11 @@ buy
 - BNC x 2  	     |link: https://tinyurl.com/3j52kbrn|cost: 4.69$ for 1
 - SiPH   	       |link: https://tinyurl.com/2xhbnyjk|cost: 21.11$ for 1
 - buck converter |link: https://tinyurl.com/mwwfbhd4|cost: 12.99$ for 10
-- barrel jack x2 |link: https://tinyurl.com/5t2ppekt|cost: 1.1$ for 1
+- barrel jack x3 |link: https://tinyurl.com/5t2ppekt|cost: 1.1$ for 1
 - OLED 		       |link: https://tinyurl.com/2j97ssus|cost: 9.99$ for 3
 - Arduino nano   |link: https://tinyurl.com/uyfkbjkx|cost: 15.99$ for 3
 
-total: 125.22$
+total: 126.32$
+
 
 
