@@ -1,0 +1,20 @@
+item,amount,link,cost total
+barrel jack,3,https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/SJ-43515RS-SMT-TR/669722,3.3
+bnc connector,2,https://www.digikey.com/en/products/detail/amphenol-rf/031-5538-10RFX/2041817,11.22
+capacitor 10nf,4,https://www.digikey.com/en/products/detail/kemet/C0402C103K5RECAUTO/8646477,0.52
+capacitor .1 uf,1,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21F104ZBANNNC/3889200,0.1
+resistor 50 ohms,3,https://www.digikey.com/en/products/detail/vishay-dale/CRCW040249R9FKED/1177858,0.3
+res 100k ohm,2,https://www.digikey.com/en/products/detail/yageo/RC0402FR-07100KL/726526,0.2
+res 100 ohm,1,https://www.digikey.com/en/products/detail/koa-speer-electronics-inc/RK73H1ETTP1000F/9844157,0.1
+capacitor 10uf,2,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05A106MP5NUNC/3887108,0.16
+capacitor 1nf,1,https://www.digikey.com/en/products/detail/kemet/C0805C102K5RECAUTO/8640477,0.24
+resistor 1k,2,https://www.digikey.com/en/products/detail/yageo/RC0402FR-071KL/726513,0.2
+op-amp,2,https://www.digikey.com/en/products/detail/analog-devices-inc/LT6201IS8-PBF/961104,28
+led,1,https://www.digikey.com/en/products/detail/liteon/LTST-C170GKT/269226,0.1
+DIODE SCHOTTKY,2,https://www.digikey.com/en/products/detail/mcc-micro-commercial-components/MBR0540-TP/717252,0.36
+button,1,https://www.lcsc.com/product-detail/C720477.html,0.04
+SiPM,1,https://www.mouser.com/ProductDetail/onsemi/MICROFC-60035-SMT-TR?qs=byeeYqUIh0NL1tLUEc9yUw%3D%3D&srsltid=AfmBOooRt46iyvgH4yqTlgNzxdHt0p3pqA3Cqxlecd25VIbPIIU4flRr,21.11
+buck converter,1,https://www.amazon.com/gp/product/B07VVXF7YX/ref=ewc_pr_img_1?smid=A84L3DR48II7S&th=1,12.99
+oled display,1,https://www.amazon.com/ELEGOO-Display-Compact-Self-Luminous-Projects/dp/B0D2RMQQHR/ref=sr_1_1?crid=KINQA4M334KH&dib=eyJ2IjoiMSJ9.M3Ku2XR3q9hsYpWQDtV9LGfNfwrliDBz4cqNIRmlQwEvF_lCcDZ3_gg3YOz-8gExoyCCYB7xbrUntFGqeL3Lx5u-yGhCElA-3G9qGWrCJU5xHlA6ZKwU_RQPrql7NKmLz1vmUzbis9tXVMHoe9RCJBeRxuB-uJbP_MDokUTCzkXrgy6o5OU-HjbdKgFJ016OFfM_gCXyFzTMTfCpiwzGxyHxerrrV6NmNX_B_DHJzaA.rp6_DQoTmrqcnVF8O77tceGN8OyoY7ayJan_dqnR4JU&dib_tag=se&keywords=oled+arduino&qid=1759198836&sprefix=oled+arduino%2Caps%2C155&sr=8-1,7.99
+,,,
+Total Cost,86.93,,
